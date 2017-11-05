@@ -1,5 +1,15 @@
 # 『운을 읽는 변호사』
 
+## 서지 정보
+
+지은이: 니시나카 쓰토무
+
+옮긴이: 최서희
+
+펴낸곳: [알투스](http://www.kyobobook.co.kr/search/SearchKorbookMain.jsp?vPstrCategory=KOR&vPoutSearch=1&vPpubCD=28904&vPsKeywordInfo=%BE%CB%C5%F5%BD%BA)
+
+## 
+
 ## 목차
 
 ### 글을 시작하며 스스로 자기 운을 좋게 만드는 방법에 대하여
