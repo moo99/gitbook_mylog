@@ -13,4 +13,5 @@
   * [Dance sports Girls](memos/dance-sports-girls.md)
   * [Masters](memos/masters.md)
 * [Photos](photos.md)
+* [Learning](learning.md)
 
