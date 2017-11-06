@@ -16,5 +16,6 @@
 * [Photos](photos.md)
 * [Learning](learning.md)
   * [Python for Data Analysis](learning/python-for-data-analysis.md)
+    * [IPython](learning/python-for-data-analysis/ipython.md)
 * Quotes
 
