@@ -8,5 +8,7 @@
   * [Why Gitbook](memos/why-gitbook.md)
   * [『인공지능의 미래』](memos/artificial-intelligence-what-everyone-needs-to-know.md)
   * [Machine learning algorithms](memos/machine-learning-algorithms.md)
+  * [Tools 1](memos/tools-1.md)
+  * [Tools 2](memos/tools-2.md)
 * [Photos](photos.md)
 
