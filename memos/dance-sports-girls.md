@@ -14,6 +14,7 @@
 
 * 예고편\(Trailer\) [https://goo.gl/NugD1E](https://goo.gl/NugD1E)
 * 대회영상 [https://goo.gl/8PCrWL](https://goo.gl/8PCrWL)
+* 뮤직비디오 https://goo.gl/CBtn6y
 
 
 
