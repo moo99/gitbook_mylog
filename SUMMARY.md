@@ -15,4 +15,6 @@
   * [Masters](memos/masters.md)
 * [Photos](photos.md)
 * [Learning](learning.md)
+  * [Python for Data Analysis](learning/python-for-data-analysis.md)
+* Quotes
 
