@@ -11,5 +11,6 @@
   * [Tools 1](memos/tools-1.md)
   * [Tools 2](memos/tools-2.md)
   * [Dance sports Girls](memos/dance-sports-girls.md)
+  * [Masters](memos/masters.md)
 * [Photos](photos.md)
 
