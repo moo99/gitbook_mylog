@@ -14,7 +14,13 @@
 
 * 예고편\(Trailer\) [https://goo.gl/NugD1E](https://goo.gl/NugD1E)
 * 대회영상 [https://goo.gl/8PCrWL](https://goo.gl/8PCrWL)
-* 뮤직비디오 https://goo.gl/CBtn6y
+* 뮤직비디오 [https://goo.gl/CBtn6y](https://goo.gl/CBtn6y)
+
+
+
+## 메모
+
+* 뮤직비디오 보고 있는데 왜 짠하지, 왜 눈가가 촉촉해졌지
 
 
 
