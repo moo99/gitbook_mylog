@@ -21,5 +21,6 @@
 * [Learning](learning.md)
   * [Python for Data Analysis](learning/python-for-data-analysis.md)
     * [IPython](learning/python-for-data-analysis/ipython.md)
+  * [Englsih Recitation Training](learning/englsih-recitation-training.md)
 * [Quotes](quotes.md)
 
