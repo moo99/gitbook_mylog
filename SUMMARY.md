@@ -16,6 +16,7 @@
   * [Masters](memos/masters.md)
   * [『전략』](memos/conference-sur-lefficacite.md)
   * [Text books for english](memos/text-books-for-english.md)
+  * [Costs](memos/costs.md)
 * [Photos](photos.md)
 * [Learning](learning.md)
   * [Python for Data Analysis](learning/python-for-data-analysis.md)
