@@ -4,7 +4,7 @@
 
 * Anaconda를 설치한다
 * 주요 과학계산 파이썬 커뮤니티는 아직 파이썬 3으로 넘어가지 않았으므로 파이썬 2.7 버전을 권장
-* 다운로드 링크: https://repo.continuum.io/archive/Anaconda2-5.0.1-Windows-x86\_64.exe
+* 다운로드 링크: [https://repo.continuum.io/archive/Anaconda2-5.0.1-Windows-x86\_64.exe](https://repo.continuum.io/archive/Anaconda2-5.0.1-Windows-x86_64.exe)
 
 ### 파이썬 정상 설치 확인
 
@@ -28,10 +28,10 @@ jupyter notebook
 * 이 방법은 데이터를 쌍방향으로 다룰 수 있으며, 특정한 데이터 묶음에 대한 조작이 제대로 되고 있는지 시각적으로 확인이 가능해서 상당히 유용하다.
 * 텍스트 편집기 대시 IDE를 선호할 경우에는 파이참\(Pycharm\)을 이용하면 된다.
 
-데이터 파일과 관련 자료
+### 데이터 파일과 관련 자료
 
 * Github 저장소에서 구하면 된다.
-* http://github.com/pydata/pydata-book
+* [http://github.com/pydata/pydata-book](http://github.com/pydata/pydata-book)
 
 
 
