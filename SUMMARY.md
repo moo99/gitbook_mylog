@@ -19,6 +19,7 @@
   * [Costs](memos/costs.md)
   * [Retrospect](memos/retrospect.md)
   * [Text books for Math](memos/text-books-for-math.md)
+  * [Book Recommendations](memos/book-recommendations.md)
 * [Photos](photos.md)
 * [Learning](learning.md)
   * [Python for Data Analysis](learning/python-for-data-analysis.md)
