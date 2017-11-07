@@ -14,9 +14,10 @@
   * [Tools 2](memos/tools-2.md)
   * [Dance sports Girls](memos/dance-sports-girls.md)
   * [Masters](memos/masters.md)
+  * [『전략』](memos/conference-sur-lefficacite.md)
 * [Photos](photos.md)
 * [Learning](learning.md)
   * [Python for Data Analysis](learning/python-for-data-analysis.md)
     * [IPython](learning/python-for-data-analysis/ipython.md)
-* Quotes
+* [Quotes](quotes.md)
 
