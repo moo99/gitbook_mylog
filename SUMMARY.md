@@ -18,6 +18,7 @@
   * [Text books for english](memos/text-books-for-english.md)
   * [Costs](memos/costs.md)
   * [Retrospect](memos/retrospect.md)
+  * [Text books for Math](memos/text-books-for-math.md)
 * [Photos](photos.md)
 * [Learning](learning.md)
   * [Python for Data Analysis](learning/python-for-data-analysis.md)
