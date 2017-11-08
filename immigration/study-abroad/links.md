@@ -33,5 +33,17 @@
 11\) 청년의 해외 유학에 미래 명운을 건 브라질의 국비 유학 프로그램  
 [https://www.facebook.com/dogilstory/posts/1579590325589257](https://www.facebook.com/dogilstory/posts/1579590325589257)
 
-\[출처\] ⓒ독일이야기\([https://www.facebook.com/dogilstory\](https://www.facebook.com/dogilstory\)\)
+\[출처\] ⓒ독일이야기\([https://www.facebook.com/dogilstory\](https://www.facebook.com/dogilstory%29\)
+
+
+
+
+
+---
+
+### 블로그
+
+http://blog.sanoi.com/
+
+
 
