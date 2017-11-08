@@ -41,13 +41,13 @@
 
 [http://blog.sanoi.com/](http://blog.sanoi.com/)
 
-
+http://frauhan.tistory.com/
 
 ---
 
 ### 유학 관련
 
-https://www.uni-assist.de/index\_en.html
+[https://www.uni-assist.de/index\_en.html](https://www.uni-assist.de/index_en.html)
 
 * the University Application Service for International Students
 
