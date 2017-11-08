@@ -27,6 +27,7 @@
     * [IPython](learning/python-for-data-analysis/ipython.md)
   * [Englsih Recitation Training](learning/englsih-recitation-training.md)
 * [Quotes](quotes.md)
-* [Immigration](immigration.md)
-  * Study Abroad
+* [Project I](immigration.md)
+  * [Study Abroad](immigration/study-abroad.md)
+    * [Links](immigration/study-abroad/links.md)
 
