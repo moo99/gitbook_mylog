@@ -35,15 +35,23 @@
 
 \[출처\] ⓒ독일이야기\([https://www.facebook.com/dogilstory\](https://www.facebook.com/dogilstory%29\)
 
+---
 
+### 블로그
+
+[http://blog.sanoi.com/](http://blog.sanoi.com/)
 
 
 
 ---
 
-### 블로그
+### 유학 관련
 
-http://blog.sanoi.com/
+https://www.uni-assist.de/index\_en.html
+
+* the University Application Service for International Students
+
+* 외국인전형을 지원하는 일반대학교는 보통 우니-어시스트\(uni-assist\)를 통해서 지원한다.
 
 
 
