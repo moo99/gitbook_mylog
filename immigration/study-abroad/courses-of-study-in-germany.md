@@ -8,6 +8,17 @@
 
 ### 대상 과정 및 학교
 
+* Shortlink: 
+* Degree: 
+* Programme duration:
+* Programme duration
+* Application deadlien: 
+* Enrolment fees:
+* Language requirements: 
+* Academic requirements: 
+
+
+
 #### Master of Media and Communication Science • Ilmenau University of Technology • Ilmenau
 
 * Shortlink: [daad.de/go/kr1601](https://daad.de/go/kr1601)
@@ -17,6 +28,7 @@
   > It is recommended that foreign applicants who need to apply for a visa to enter Germany after being admitted to study submit their application** at least three months before the end of the application period.**
 
 * Enrolment fees: Currently, approx. 120 EUR for the first semester and 100 EUR per semester for all following semesters, including a public transportation ticket
+
 * Language requirements: TOEIC 800
 
 #### Data Analytics**• University of Hildesheim**• Hildesheim
@@ -39,21 +51,9 @@
 * Academic requirements: Please submit the following documents as a verified copy of the original with a verified English or German translation of the original:
   * secondary school leaving certificate
   * passed university admission examination \(if you passed it in your country\)
-  * proof of one or two years of studies in the home country with a list of all subjects and marks from each semester
+  * proof of one or two years of studies in the home country with a list of all subjects and marks from each semeste
 
 
-
-
-
-
-
-* Shortlink: Bachelor of Science in Applied Mathematics
-* Degree: 
-* Programme duration
-* Application deadlien: 
-* Enrolment fees:
-* Language requirements: 
-* Academic requirements: 
 
 
 
