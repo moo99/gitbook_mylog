@@ -34,9 +34,12 @@
 * Degree: Bachelor of Science in Applied Mathematics
 * Programme duration: Six semesters \(three years\)
 * Application deadlien: 15 May for the following winter semester
-* Enrolment fees: There are no tuition fees.
-* Language requirements: 
-* Academic requirements: 
+* Enrolment fees: 80 EUR per semester
+* Language requirements: TOEFL Internet-based \(iBT\) at least 79 points
+* Academic requirements: Please submit the following documents as a verified copy of the original with a verified English or German translation of the original:
+  * secondary school leaving certificate
+  * passed university admission examination \(if you passed it in your country\)
+  * proof of one or two years of studies in the home country with a list of all subjects and marks from each semester
 
 
 
@@ -44,8 +47,7 @@
 
 
 
-Shortlink: Bachelor of Science in Applied Mathematics
-
+* Shortlink: Bachelor of Science in Applied Mathematics
 * Degree: 
 * Programme duration
 * Application deadlien: 
