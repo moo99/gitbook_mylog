@@ -3,7 +3,7 @@
 ### 조건
 
 * 영어로 수업이 진행되어야 함
-* 영어 점수는 TOEIC 제출도 가능해야 함
+* 영어 점수는 TOEIC 제출도 가능해야 함 --&gt; 어학 준비 시간 단축 가능함!
 * 수업료는 없어야 함
 
 ### 대상 과정 및 학교
@@ -26,6 +26,7 @@
   > It is recommended that foreign applicants who need to apply for a visa to enter Germany after being admitted to study submit their application** at least three months before the end of the application period.**
 
 * Enrolment fees: Currently, approx. 120 EUR for the first semester and 100 EUR per semester for all following semesters, including a public transportation ticket
+
 * Language requirements: TOEIC 800
 
 #### Applied Mathematics**• University of Applied Sciences Mittweida**• Mittweida
