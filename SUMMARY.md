@@ -31,6 +31,7 @@
 * [Project I](immigration.md)
   * [Study Abroad](immigration/study-abroad.md)
     * [Links](immigration/study-abroad/links.md)
+    * [Courses of study in Germany ](immigration/study-abroad/courses-of-study-in-germany.md)
   * [Visa](immigration/visa.md)
     * [Cases](immigration/visa/cases.md)
 
