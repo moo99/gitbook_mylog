@@ -26,11 +26,13 @@
   * [Python for Data Analysis](learning/python-for-data-analysis.md)
     * [IPython](learning/python-for-data-analysis/ipython.md)
   * [Englsih Recitation Training](learning/englsih-recitation-training.md)
+  * [SQL](learning/sql.md)
 * [Quotes](quotes.md)
 * [Project I](immigration.md)
   * [Study Abroad](immigration/study-abroad.md)
     * [Links](immigration/study-abroad/links.md)
     * [Courses of study in Germany ](immigration/study-abroad/courses-of-study-in-germany.md)
+    * [Application Documents](immigration/study-abroad/application-documents.md)
   * [Visa](immigration/visa.md)
     * [Cases](immigration/visa/cases.md)
 

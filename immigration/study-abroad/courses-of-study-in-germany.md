@@ -40,7 +40,7 @@
 * Academic requirements: Please submit the following documents as a verified copy of the original with a verified English or German translation of the original:
   * secondary school leaving certificate
   * passed university admission examination \(if you passed it in your country\)
-  * proof of one or two years of studies in the home country with a list of all subjects and marks from each semeste
+  * proof of one or two years of studies in the home country with a list of all subjects and marks from each semester
 
 
 
