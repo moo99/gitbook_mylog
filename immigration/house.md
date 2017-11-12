@@ -1,16 +1,12 @@
 # 독일에서 집 사기
 
-
-
 ### 참고 링크
 
-* 독일에서 집 구매하기 Intro http://blog.naver.com/somin\_park22/220822563673
-* 독일에서 집 찾기 http://blog.naver.com/somin\_park22/220825879180
-* 독일에서 대출 받기 http://blog.naver.com/somin\_park22/220826242143
-* 독일에서 Notar 공증인 예약하기, Notar 역할 http://blog.naver.com/somin\_park22/220826336277
-* 집값 지불하기 http://blog.naver.com/somin\_park22/220829547544
-
-
+* 독일에서 집 구매하기 Intro [http://blog.naver.com/somin\_park22/220822563673](http://blog.naver.com/somin_park22/220822563673)
+* 독일에서 집 찾기 [http://blog.naver.com/somin\_park22/220825879180](http://blog.naver.com/somin_park22/220825879180)
+* 독일에서 대출 받기 [http://blog.naver.com/somin\_park22/220826242143](http://blog.naver.com/somin_park22/220826242143)
+* 독일에서 Notar 공증인 예약하기, Notar 역할 [http://blog.naver.com/somin\_park22/220826336277](http://blog.naver.com/somin_park22/220826336277)
+* 집값 지불하기 [http://blog.naver.com/somin\_park22/220829547544](http://blog.naver.com/somin_park22/220829547544)
 
 ### 집 살까? 임대할까?
 
@@ -20,19 +16,24 @@
 
   * 한국에는 자금 출처 증빙을 해야 하고 한국은행이나 외환은행에 신고한 뒤 송금 가능함
 
-
-
 ### 추천 지역
 
-* Augsburg 안전 지역 \[출처: http://blog.naver.com/somin\_park22/220825879180\]
+* Augsburg 안전 지역 \[출처: [http://blog.naver.com/somin\_park22/220825879180\](http://blog.naver.com/somin_park22/220825879180\)\]
 
   * **Antonviertel, Göggingen, Pfersee-Nord**
 
   * **Hochfeld 북쪽 \(Haunstetterstrasße부근\)**
 
-  * **Provianbachstraße 주변**  
-  
-  
+  * **Provianbachstraße 주변**
+
+
+
+### 대학 주변 지역
+
+* Trier
+  * 작은 소도시라서 그런지 주택 가격이 많이 비싸지는 않은 듯하다. 
+
+### 
 
 
 
