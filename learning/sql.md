@@ -2,6 +2,11 @@
 
 ### To do
 
+* [ ] 『칼퇴족 김대리는 알고 나만 모르는 SQL 기초편』 가지고 2주 동안 공부하면서 기본 문법 익히기
+* [ ] Data Camp의 「Intro to SQL for Data Sciences」로 실습하면서 배우기
+
+
+
 ### 공부 자료
 
 #### [생활코딩 MySQL](https://opentutorials.org/course/195)
