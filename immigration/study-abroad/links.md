@@ -41,7 +41,9 @@
 
 [http://blog.sanoi.com/](http://blog.sanoi.com/)
 
-http://frauhan.tistory.com/
+[http://frauhan.tistory.com/](http://frauhan.tistory.com/)
+
+http://deutsche-peterpen.tistory.com/
 
 ---
 
