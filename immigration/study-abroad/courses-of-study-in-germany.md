@@ -38,7 +38,7 @@
 * 장점
   * 자격증 취득 가능함: "European Master in Official Statistics"
   * 복수 학위 취득 가능함: economics, sociology, and business mathematics 등
-* 교환학생 후기 \([https://goo.gl/7v3aeK\](https://goo.gl/7v3aeK\)\)
+* 교환학생 후기 \([https://goo.gl/7v3aeK\](https://goo.gl/7v3aeK%29\)
 
   * _작은 대학도시이기는 해도 칼 마르크스가 태어난 곳이고 옛날 서로마 제국의 수도로서 번성하였던 역사가 있는 도시라고 해서 유럽 각지에서 관광객들이 항상 몰려드는 곳입니다. 우리나라로 치면 경주 쯤 된다고 하면 될까요._
 
@@ -57,21 +57,7 @@
   > It is recommended that foreign applicants who need to apply for a visa to enter Germany after being admitted to study submit their application** at least three months before the end of the application period.**
 
 * Enrolment fees: Currently, approx. 120 EUR for the first semester and 100 EUR per semester for all following semesters, including a public transportation ticket
-
 * Language requirements: TOEIC 800
-
-#### Applied Mathematics**• University of Applied Sciences Mittweida**• Mittweida
-
-* Shortlink: [daad.de/go/kr4836](https://daad.de/go/kr4836)
-* Degree: Bachelor of Science in Applied Mathematics
-* Programme duration: Six semesters \(three years\)
-* Application deadlien: 15 May for the following winter semester
-* Enrolment fees: 80 EUR per semester
-* Language requirements: TOEFL Internet-based \(iBT\) at least 79 points
-* Academic requirements: Please submit the following documents as a verified copy of the original with a verified English or German translation of the original:
-  * secondary school leaving certificate
-  * passed university admission examination \(if you passed it in your country\)
-  * proof of one or two years of studies in the home country with a list of all subjects and marks from each semester
 
 
 
