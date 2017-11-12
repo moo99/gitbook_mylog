@@ -36,4 +36,5 @@
     * [Application Documents](immigration/study-abroad/application-documents.md)
   * [Visa](immigration/visa.md)
     * [Cases](immigration/visa/cases.md)
+  * [House](immigration/house.md)
 
