@@ -11,6 +11,7 @@
   * [Tweets 2017-11-13](tweets/tweets-2017-11-13.md)
   * [Tweets 2017-11-14](tweets/tweets-2017-11-14.md)
   * [Tweets 2017-11-15](tweets/tweets-2017-11-15.md)
+  * [Tweets 2017-11-16](tweets/tweets-2017-11-16.md)
 * [Memos](memos.md)
   * [『운을 읽는 변호사』](memos/bm1.md)
   * [Why Gitbook](memos/why-gitbook.md)
