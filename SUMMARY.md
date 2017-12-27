@@ -40,4 +40,6 @@
   * [2017-12-19 Tweets](tweets/2017-12-19-tweets.md)
   * [2017-12-20 Tweets](tweets/2017-12-20-tweets.md)
   * [2017-12-21 Tweets](tweets/2017-12-21-tweets.md)
+  * [2017-12-27 Tweets](tweets/2017-12-27-tweets.md)
+* [Mindhacker](mindhacker.md)
 
