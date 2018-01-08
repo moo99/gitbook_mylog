@@ -49,6 +49,6 @@
   * [2018-01-02 Tweets](tweets/2018-01-02-tweets.md)
   * [2018-01-03 Tweets](tweets/2018-01-03-tweets.md)
   * [2018-01-04 Tweets](tweets/2018-01-04-tweets.md)
-  * [Tweets 2018-01-08](tweets/tweets-2018-01-08.md)
+  * [2018-01-08 Tweets](tweets/tweets-2018-01-08.md)
 * [Mindhacker](mindhacker.md)
 
